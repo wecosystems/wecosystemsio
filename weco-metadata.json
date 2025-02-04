@@ -1,0 +1,14 @@
+{
+  "name": "WECO",
+  "symbol": "WECO",
+  "description": "Innovate and viable blockchain ecosystem with WEB 3.0",
+  "image": "http://www.wecosystems.io/images/weco-logo.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "http://www.wecosystems.io/images/weco-logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
