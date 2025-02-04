@@ -1,2 +1,2 @@
-# wecosystemsio
+# wecosystems.io
 wecosystems
